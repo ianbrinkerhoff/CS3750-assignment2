@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victo\\source\\repos\\CS3750\\CS3750-assignment2\\A2-G2\\A2-G2\\A2-G2.csproj": {}
+    "C:\\Users\\Ian Brinkerhoff\\OneDrive\\WEBER STATE\\FALL 2020\\CS 3750\\repo\\A2-G2\\A2-G2\\A2-G2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victo\\source\\repos\\CS3750\\CS3750-assignment2\\A2-G2\\A2-G2\\A2-G2.csproj": {
+    "C:\\Users\\Ian Brinkerhoff\\OneDrive\\WEBER STATE\\FALL 2020\\CS 3750\\repo\\A2-G2\\A2-G2\\A2-G2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victo\\source\\repos\\CS3750\\CS3750-assignment2\\A2-G2\\A2-G2\\A2-G2.csproj",
+        "projectUniqueName": "C:\\Users\\Ian Brinkerhoff\\OneDrive\\WEBER STATE\\FALL 2020\\CS 3750\\repo\\A2-G2\\A2-G2\\A2-G2.csproj",
         "projectName": "A2-G2",
-        "projectPath": "C:\\Users\\victo\\source\\repos\\CS3750\\CS3750-assignment2\\A2-G2\\A2-G2\\A2-G2.csproj",
-        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victo\\source\\repos\\CS3750\\CS3750-assignment2\\A2-G2\\A2-G2\\obj\\",
+        "projectPath": "C:\\Users\\Ian Brinkerhoff\\OneDrive\\WEBER STATE\\FALL 2020\\CS 3750\\repo\\A2-G2\\A2-G2\\A2-G2.csproj",
+        "packagesPath": "C:\\Users\\Ian Brinkerhoff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ian Brinkerhoff\\OneDrive\\WEBER STATE\\FALL 2020\\CS 3750\\repo\\A2-G2\\A2-G2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ian Brinkerhoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
